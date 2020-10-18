@@ -1,0 +1,19 @@
+{
+  "name": "nunu",
+  "version": "1.0.0",
+  "description": "Learning Lerna",
+  "main": "index.js",
+  "author": "Raphael Chaula",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "husky": "^4.3.0",
+    "lerna": "^3.22.1"
+  }
+}

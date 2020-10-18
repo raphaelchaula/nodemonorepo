@@ -1,0 +1,13 @@
+{
+  "name": "@nunu/caashiere",
+  "version": "1.0.0",
+  "description": "Nunu - Caashiere package",
+  "main": "index.js",
+  "author": "Raphael Chaula",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@nunu/chaula": "^1.0.0",
+    "clsx": "^1.1.1"
+  }
+}

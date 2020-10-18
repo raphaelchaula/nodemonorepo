@@ -1,0 +1,12 @@
+{
+  "name": "@nunu/chaula",
+  "version": "1.0.0",
+  "description": "Nunu - Chaula package",
+  "main": "index.js",
+  "author": "Raphael Chaula",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "clsx": "^1.1.1"
+  }
+}
